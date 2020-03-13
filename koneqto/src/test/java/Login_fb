@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" >
+  <test name="Test">
+    <groups>
+    <run>
+    <include name="${tester}">
+    </run>
+    </groups>
+    <classes>
+      <class name="login.koneqto.samleCls_forpre"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
